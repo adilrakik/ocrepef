@@ -14,7 +14,7 @@
  * ===========================================
  */
 
-import menuImage from '@/assets/menu-full.jpg';
+import menuImage from '@/assets/menu-full.jpeg';
 
 const MenuSection = () => {
   return (
